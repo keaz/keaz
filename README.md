@@ -10,29 +10,29 @@
 - 📫 How to reach me: kasun.ranasingh@icloud.com
 
 ### Tech Stack
-<a href="https://www.java.com/en/"><img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/></a>
+<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/></a>
 <a href="https://spring.io/">
           <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
         </a>
 <a href="https://www.mysql.com/">
-            <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
 <a href="https://www.scala-lang.org/">
-          <img src="https://devicon.dev/devicon.git/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
         </a>
  <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift programming language" width="70" height="70"/>
         </a>
 <a href="https://www.docker.com/">
-          <img src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
         </a>
 <a href="https://kubernetes.io/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
         </a>
 <a href="https://en.wikipedia.org/wiki/MacOS">
-          <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="apple mac osx" width="70" height="70"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple mac osx" width="70" height="70"/>
         </a>
 <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
         </a>
