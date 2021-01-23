@@ -7,7 +7,20 @@
 
 - 🔭 I’m working on compile time <a href="https://github.com/keaz/sonar-checker">Sonar Violations checker</a>  ...
 - 👯 I’m looking to collaborate ...
+- 🥅 2021 Goals: Contribute to Community, Write 12 articles
+- ⚡ I love physics
 - 📫 How to reach me: kasun.ranasingh@icloud.com
+
+### Find me on:
+[<img align="left" alt="keaz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="keaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="keaz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="keaz | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
+
+[twitter]: https://twitter.com/KeazKasun
+[youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
+[linkedin]: https://www.linkedin.com/in/kasun-ranasinghe/
+[medium]: https://medium.com/@kasunranasinghe303
 
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
