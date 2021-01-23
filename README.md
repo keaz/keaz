@@ -17,11 +17,6 @@
 [<img align="left" alt="keaz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="keaz | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 
-[twitter]: https://twitter.com/KeazKasun
-[youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
-[linkedin]: https://www.linkedin.com/in/kasun-ranasinghe/
-[medium]: https://medium.com/@kasunranasinghe303
-
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/></a>
@@ -49,3 +44,8 @@
 <a href="https://en.wikipedia.org/wiki/Linux">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
         </a>
+        
+[twitter]: https://twitter.com/KeazKasun
+[youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
+[linkedin]: https://www.linkedin.com/in/kasun-ranasinghe
+[medium]: https://medium.com/@kasunranasinghe303        
