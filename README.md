@@ -27,9 +27,7 @@
 <a href="https://www.mysql.com/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
           </a>
-<a href="https://www.scala-lang.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
-        </a>
+<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="70" height="70"/></a>
  <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift programming language" width="70" height="70"/>
         </a>
