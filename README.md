@@ -20,9 +20,9 @@
 </br>
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/></a>
-<a href="https://spring.io/">
-          <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
+<a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot" width="70" height="70"/></a>
+<a href="https://kafka.apache.org">
+          <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="linux" width="70" height="70"/>
         </a>
 <a href="https://www.mysql.com/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
