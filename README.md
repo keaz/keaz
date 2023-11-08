@@ -19,31 +19,17 @@
 </br>
 </br>
 ### Tech Stack
+<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="70" height="70"/></a>
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="70" height="70"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="70" height="70"/></a>
-<a href="https://kafka.apache.org">
-          <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="70" height="70"/>
-        </a>
-<a href="https://www.mysql.com/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
-          </a>
-<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="70" height="70"/></a>
- <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="70" height="70"/>
-        </a>
-<a href="https://www.docker.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/>
-        </a>
-<a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
-        </a>
-<a href="https://en.wikipedia.org/wiki/MacOS">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple OSX" width="70" height="70"/>
-        </a>
-<a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/>
-        </a>
-        
+<a href="https://kafka.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="70" height="70"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/></a>
+<a href="https://en.wikipedia.org/wiki/Swift_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="70" height="70"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/></a>
+<a href="https://kubernetes.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/></a>
+<a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Apple OSX" width="70" height="70"/></a>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/></a>
+
 [twitter]: https://twitter.com/KeazKasun
 [youtube]: https://www.youtube.com/channel/UCCVqzJoopx8ODm-J5-iTBag
 [linkedin]: https://www.linkedin.com/in/kasun-ranasinghe
