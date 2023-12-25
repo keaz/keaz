@@ -5,9 +5,9 @@
 |[![keaz's github stats](https://github-readme-stats.vercel.app/api?username=keaz&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaz&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=keaz)||
 
-- 🔭 I’m working on <a href="https://github.com/keaz/rust-decentralized-file-sync">P2P File sharing application using RUST</a>  ...
+- 🔭 I’m working on Rust <a href="https://github.com/keaz/simple-ldap">LDAP</a>, <a href="https://github.com/keaz/high-level-kafka">Kafka</a> crates and more ...
 - 👯 I’m looking to collaborate ...
-- 🥅 2023 Goals: 🦸‍♂️ Master RUST 💪 💪, Contribute to Community, Write articles
+- 🥅 2024 Goals: 🦸‍♂️ Master RUST 💪 💪 and Neovim, Contribute to Community, Write articles
 - ⚡ I love physics
 - 📫 How to reach me: kasun.ranasingh@icloud.com
 
